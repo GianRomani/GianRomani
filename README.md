@@ -9,6 +9,8 @@ My name is Gianfranco. I'm a recent Master's graduate in Engineering in Computer
 
 You can also check and download my resume [here](resume_gianfranco_romani.pdf)🤓
 
+I am collecting [here](https://main--gianfree-notes.netlify.app/) the notes I am taking on AI and ML topics.
+
 ### Technologies I'm familiar with 🔬
 
 **Languages:**  
