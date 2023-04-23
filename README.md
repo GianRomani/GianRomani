@@ -7,7 +7,7 @@ My name is Gianfranco. I'm a recent Master's graduate in Engineering in Computer
  - gianfranco.romani@outlook.it
  - [Linkedin](https://www.linkedin.com/in/gian-romani/)
 
-You can also download my resume [here](https://github.com/GianRomani/GianRomani/raw/master/resume_gianfranco_romani.pdf)🤓
+You can also download my resume [here](https://github.com/GianRomani/GianRomani/resume_gianfranco_romani.pdf)🤓
 
 ### Technologies I'm familiar with 🔬
 
