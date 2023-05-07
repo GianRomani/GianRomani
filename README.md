@@ -1,6 +1,7 @@
 ### Hello there 👋,
 
 my name is Gianfranco. 
+
 I'm a recent Master's graduate in Engineering in Computer Science from Sapienza Università di Roma with experience in AI and machine learning. 
 At the moment, I am a Data Science Intern at SafEcho AG and I am working on the development of a chatbot for HSE.
 I attended the School of AI offered by PI School for which I won the scholarship with 9 other fellows. I worked for Translated and investigated prompting and fine-tuning techniques to improve performance of LLMs (GPT, BLOOM,  and FlanT5) for Adaptive Machine Translation.
