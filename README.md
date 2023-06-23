@@ -1,19 +1,20 @@
 ### Hello there 👋,
 
-I'm a recent Master's graduate in Engineering in Computer Science from Sapienza Università di Roma with experience in AI and machine learning. 
-At the moment, I am a Data Science Intern at SafEcho AG and I am working on the development of a chatbot for HSE.
-I attended the School of AI offered by PI School for which I won the scholarship with 9 other fellows. I worked for Translated and investigated prompting and fine-tuning techniques to improve performance of LLMs (GPT, BLOOM,  and FlanT5) for Adaptive Machine Translation.
+I am a Data Science Intern at SafEcho AG where I am working on the development of a chatbot for HSE.
+I attended the School of AI offered by PI School for which I won a scholarship with 9 other fellows. I worked for Translated and investigated prompting and parameter-efficient fine-tuning techniques to improve the performance of LLMs (GPT, BLOOM, and FlanT5) for Adaptive Machine Translation.
+I graduated with a Master's in Engineering in Computer Science from Sapienza Università di Roma. 
 
-📫 I'm also on the hunt for a full-time machine learning role, so if you're hiring reach out! I can most easily be reached via:
+📫 I can most easily be reached via:
 
- - gianfranco.romani@outlook.it
+ - Email: gianfranco.romani@outlook.it
  - [Linkedin](https://www.linkedin.com/in/gian-romani/)
+ - [Twitter](https://twitter.com/gianfree97)
 
 You can also check and download my resume [here](resume_gianfranco_romani.pdf)🤓
 
 I am collecting [here](https://main--gianfree-notes.netlify.app/) the notes I am taking on AI and ML topics.
 
-### Technologies I'm familiar with 🔬
+### Some of the technologies I'm familiar with 🔬
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
