@@ -1,6 +1,7 @@
 ### Hello there 👋,
 
-I am a Data Science Intern at SafEcho AG where I am working on the development of a chatbot for HSE.
+I am an Applied Research intern in NLP at Thomson Reuters.
+Before I was a Data Science Intern at SafEcho AG where I worked on the development of a chatbot for HSE.
 I attended the School of AI offered by PI School for which I won a scholarship with 9 other fellows. I worked for Translated and investigated prompting and parameter-efficient fine-tuning techniques to improve the performance of LLMs (GPT, BLOOM, and FlanT5) for Adaptive Machine Translation.
 I graduated with a Master's in Engineering in Computer Science from Sapienza Università di Roma. 
 
