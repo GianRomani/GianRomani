@@ -21,7 +21,7 @@ My journey includes:
 *   **SafEcho AG:** Developed LLM conversational assistants for Occupational Health and Safety compliance.
 *   **Sapienza Università di Roma:** Graduated with an MSc in Engineering in Computer Science.
 
-I collect my structured research notes, paper summaries, and guides covering Machine Learning, MLOps, AI Safety, and Cybersecurity (and other non-tech topics) in my **[Obsidian Second Brain](https://gianfree-notes.netlify.app/)**.
+I collect my structured research notes, paper summaries, and guides covering Machine Learning, MLOps, AI Safety, and Cybersecurity (and other non-tech topics) in my **[Obsidian Vault(https://gianfree-notes.netlify.app/)**.
 
 ---
 
@@ -34,4 +34,5 @@ I collect my structured research notes, paper summaries, and guides covering Mac
 *   Swimming
 *   Building mechanical keyboards
 *   Beating escape rooms
-*   Roasting and tasting specialty coffee
+*   Tasting specialty coffee
+*   Cooking
