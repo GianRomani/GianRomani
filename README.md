@@ -1,38 +1,34 @@
-### Hello there 👋
+### Hello there
 
-I am a **Senior Machine Learning Engineer** at **Thomson Reuters** based in Zug, Switzerland 🇨🇭. 
+I am a **Senior Machine Learning Engineer** at **Thomson Reuters** based in Zurich / Zug, Switzerland.
 
-As the inaugural ML expert within the Cybersecurity team, I drive the strategy, development, and deployment of AI-based tools to enhance the company's cybersecurity posture and secure AI products.
+Working at the intersection of AI and cybersecurity, I focus on both securing AI systems and applying agentic AI to defensive security challenges.
 
-My core focus and responsibilities include:
+#### What I'm Interested In & Exploring
+- **Autonomous Vulnerability Remediation:** Closed-loop agent environments where models triage and fix code vulnerabilities against deterministic verifiers.
+- **Agent Harness Engineering:** Low-level harness architecture, runtime sandboxing, and loop engineering.
+- **AI Security & Defensive Tooling:** Red teaming, prompt injection defenses, and practical guardrails.
+- **Offensive Security Foundations:** Hands-on pentesting, network exploitation, and practical security audits.
 
-- **Vulnerability Remediation:** Designing and building tools to discover code vulnerabilities and plan automated
-  remediations.
-- **LLM Security:** Leading research and engineering efforts dedicated to securing LLM-based applications.
-- **AI Subject Matter Expert:** Serving as an internal consultant and SME on AI-related projects across various
-  cybersecurity teams.
-- **Agentic Frameworks:** Building frameworks to scale the development of agentic projects (focusing on AgentOps,
-  evaluation harnesses, and loop engineering).
+#### Open Source
+- [**`codeflow-solver`**](https://github.com/thomsonreuters/codeflow-solver) — A graph optimization engine that models vulnerability dataflow graphs as a Set Cover Problem to find the minimal set of code changes needed to remediate security findings.
+- *I am also preparing a few other open-source tools around agent harnesses and security workflows that I will be releasing soon.*
 
-Previously, I was an Applied AI Researcher at **Thomson Reuters Labs** working on LLM fine-tuning and machine learning systems for Tax, Legal, and Global Trade products. 
+#### Second Brain
+I collect structured research notes, paper summaries, and guides covering Machine Learning, AI Security, and Cybersecurity in my **[Obsidian Vault](https://gianfree-notes.netlify.app/)**.
 
-My journey includes:
-*   **Pi School (School of AI):** Awarded a scholarship (1 of 10 fellows) to research prompt engineering and parameter-efficient fine-tuning (PEFT) on LLMs (GPT, BLOOM, Flan-T5) for Adaptive Machine Translation in partnership with **Translated**.
-*   **SafEcho AG:** Developed LLM conversational assistants for Occupational Health and Safety compliance.
-*   **Sapienza Università di Roma:** Graduated with an MSc in Engineering in Computer Science.
+---
 
-I collect my structured research notes, paper summaries, and guides covering Machine Learning, MLOps, AI Safety, and Cybersecurity (and other non-tech topics) in my **[Obsidian Vault(https://gianfree-notes.netlify.app/)**.
+**Beyond the screen:**
+* Swimming
+* Specialty coffee
+* Custom mechanical keyboards
+* Escape rooms
+* Cooking
 
 ---
 
 **Get in touch:**
-*   Email: [gianfranco.romani@outlook.it](mailto:gianfranco.romani@outlook.it)
-*   [LinkedIn](https://www.linkedin.com/in/gian-romani/)
-*   📄 Check/download my resume [here](resume_gianfranco_romani.pdf)
-
-**Beyond the screen:**
-*   Swimming
-*   Building mechanical keyboards
-*   Beating escape rooms
-*   Tasting specialty coffee
-*   Cooking
+* Email: [gianfranco.romani@outlook.it](mailto:gianfranco.romani@outlook.it)
+* [LinkedIn](https://www.linkedin.com/in/gian-romani/)
+* Check/download my resume [here](resume_gianfranco_romani.pdf)
