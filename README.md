@@ -21,8 +21,8 @@ I collect structured research notes, paper summaries, and guides covering Machin
 
 **Beyond the screen:**
 * Swimming
-* Specialty coffee (brewing, tasting & roasting)
-* Building custom mechanical keyboards
+* Specialty coffee
+* Custom mechanical keyboards
 * Escape rooms
 * Cooking
 
