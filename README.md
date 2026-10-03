@@ -1,38 +1,40 @@
 ### Hello there 👋
 
-I am a **Senior Machine Learning Engineer** at **Thomson Reuters** based in Zug, Switzerland 🇨🇭. 
+I am a **Senior Machine Learning Engineer** at **Thomson Reuters** based in Zurich / Zug, Switzerland 🇨🇭. 
 
-As the inaugural ML expert within the Cybersecurity team, I drive the strategy, development, and deployment of AI-based tools to enhance the company's cybersecurity posture and secure AI products.
+Working at the intersection of AI and cybersecurity, I focus on both securing AI systems and applying agentic AI to defensive cybersecurity challenges.
 
-My core focus and responsibilities include:
+#### 🛡️ Core Focus & Responsibilities
+- **Autonomous Remediation Agents:** Architecting closed-loop agent environments where models investigate, triage, and remediate code vulnerabilities (SAST/SCA) against deterministic verifiers.
+- **Security Tooling & Protocols:** Built **Code Scan MCP** (speaker at AgentCon Europe 2026) and open-sourced [**`codeflow-solver`**](https://github.com/thomsonreuters/codeflow-solver), formulating vulnerability dataflows as a Set Cover Problem to guarantee minimal patch footprints.
+- **Enterprise Agent SDK & Safeguards:** Standardizing agent architectures across the enterprise—establishing shared frameworks for systematic evaluation, observability, cost accounting, and defense-in-depth runtime guardrails (mitigating prompt injection, unsafe tool execution, and sensitive data leakage).
+- **Security Reviews & AI SME:** Conducting threat modeling and architecture reviews for enterprise AI systems; serving as on-call AI SME during high-impact security incident response.
 
-- **Vulnerability Remediation:** Designing and building tools to discover code vulnerabilities and plan automated
-  remediations.
-- **LLM Security:** Leading research and engineering efforts dedicated to securing LLM-based applications.
-- **AI Subject Matter Expert:** Serving as an internal consultant and SME on AI-related projects across various
-  cybersecurity teams.
-- **Agentic Frameworks:** Building frameworks to scale the development of agentic projects (focusing on AgentOps,
-  evaluation harnesses, and loop engineering).
+#### 💡 Research, Patents & Publications
+- **Patent:** Co-inventor on **U.S. Patent No. 12,651,016** (*"Systems and methods for harmonized product classification"*).
+- **Publications:**
+  - *LLM-Based Robust Product Classification in Commerce and Compliance* (Workshop on Customizable NLP at **EMNLP 2024**)
+  - *Analyzing Topic Models: A Tourism Recommender System Perspective* (**AINA 2024**)
+  - *Domain Terminology Integration into Machine Translation: Leveraging Large Language Models* (**WMT23**)
+- **Speaking & Community:** Workshop speaker at **AMLD 2026** (Applied Machine Learning Days @ EPFL) on prompt injection and automated red teaming; co-organizer of the TR Labs Paper Reading Group.
 
-Previously, I was an Applied AI Researcher at **Thomson Reuters Labs** working on LLM fine-tuning and machine learning systems for Tax, Legal, and Global Trade products. 
+#### 🎓 Background & Certifications
+- **Offensive Security Certified Professional (OSCP):** In progress (PEN-200, hands-on network penetration testing, Active Directory exploitation, and lateral movement).
+- **Pi School (School of AI):** Awarded fellowship to research prompt engineering and PEFT (LoRA) on LLMs for Adaptive Machine Translation with Translated.
+- **Sapienza Università di Roma:** MSc in Engineering in Computer Science (Artificial Intelligence & Machine Learning).
 
-My journey includes:
-*   **Pi School (School of AI):** Awarded a scholarship (1 of 10 fellows) to research prompt engineering and parameter-efficient fine-tuning (PEFT) on LLMs (GPT, BLOOM, Flan-T5) for Adaptive Machine Translation in partnership with **Translated**.
-*   **SafEcho AG:** Developed LLM conversational assistants for Occupational Health and Safety compliance.
-*   **Sapienza Università di Roma:** Graduated with an MSc in Engineering in Computer Science.
-
-I collect my structured research notes, paper summaries, and guides covering Machine Learning, MLOps, AI Safety, and Cybersecurity (and other non-tech topics) in my **[Obsidian Vault(https://gianfree-notes.netlify.app/)**.
+I collect my structured research notes, paper summaries, and guides across ML, MLOps, AI Security, and Cybersecurity in my **[Obsidian Vault](https://gianfree-notes.netlify.app/)**.
 
 ---
 
 **Get in touch:**
-*   Email: [gianfranco.romani@outlook.it](mailto:gianfranco.romani@outlook.it)
-*   [LinkedIn](https://www.linkedin.com/in/gian-romani/)
-*   📄 Check/download my resume [here](resume_gianfranco_romani.pdf)
+* 📧 Email: [gianfranco.romani@outlook.it](mailto:gianfranco.romani@outlook.it)
+* 💼 [LinkedIn](https://www.linkedin.com/in/gian-romani/)
+* 📄 Check/download my resume [here](resume_gianfranco_romani.pdf)
 
 **Beyond the screen:**
-*   Swimming
-*   Building mechanical keyboards
-*   Beating escape rooms
-*   Tasting specialty coffee
-*   Cooking
+* 🏊 Competitive swimming (European Masters competitor)
+* ⌨️ Building custom mechanical keyboards
+* 🔐 Beating escape rooms
+* ☕ Tasting specialty coffee & roasting
+* 🍳 Cooking
